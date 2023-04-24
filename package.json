@@ -1,6 +1,12 @@
 {
    "name": "@gloryfish/scrypted-amcrest-camera-privacy",
    "version": "1.0.1",
+   "author": {
+      "name": "Jay Roberts",
+      "email": "jay@gloryfish.org",
+      "url": "https://gloryfish.org"
+   },
+   "license": "MIT",
    "scripts": {
       "scrypted-setup-project": "scrypted-setup-project",
       "prescrypted-setup-project": "scrypted-package-json",
